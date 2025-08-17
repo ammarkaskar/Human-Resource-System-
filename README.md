@@ -4,7 +4,7 @@ A Human Resource Management System (HRMS) is a software application that helps o
 The Human Resource Management System (HRMS) is a simple yet effective application designed to manage employee records and HR-related tasks.
 This version uses Python (Tkinter + SQLite) for a desktop interface and can be expanded into a Django-based web application for better accessibility and scalability.
 
-🚀 Features
+🚀 Features.
 Add, update, view, and delete employee records
 
 Store employee data including:
